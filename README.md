@@ -1,10 +1,10 @@
 <h1 align="left">Hi there, I'm Jey 👋</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Code+Debug+Build;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/jeyabalan-d-32bb75261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
