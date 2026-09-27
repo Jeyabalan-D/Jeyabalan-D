@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Jey 👋</h1>
+<h1 align="left">Hi there, I'm Jey 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Code+Debug+Build;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,13 +17,15 @@
 
 ### 🚀 About Me
 - 🔭 I'm currently working on **Footverse**
+- 😇 Profound thoughts. Absurd humor. Endless curiosity.
+- 👑 I have an oddly serious belief that I'm destined for greatness.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,html,css,git,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,html,css,git,mongodb,mysql" />
 </p>
 
 ---
